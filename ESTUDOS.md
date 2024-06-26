@@ -1,108 +1,108 @@
 # Versionamento de Código
 ### Git/Github
-- [x] Fluxo de trabalho do Git
-- [x] Fluxo de trabalho local/remoto
-- [x] Branch e ramificação
-- [x] Principais comandos do git
-- [x] Tipos de commit
-- [ ] Principais funcionalidades
+- &#9745; Fluxo de trabalho do Git
+- &#9745; Fluxo de trabalho local/remoto
+- &#9745; Branch e ramificação
+- &#9745; Principais comandos do git
+- &#9745; Tipos de commit
+- &#9744; Principais funcionalidades
 
 # Linguagens
 ### Python
 1. Fundamentos:
-- [x] Sintaxe básica
-- [x] Tipos de dados
-- [x] Operadores
+- &#9745; Sintaxe básica
+- &#9745; Tipos de dados
+- &#9745; Operadores
 
 2. Estrutura:
-- [x] Condicional
-- [x] Loops 
-- [x] Controle de fluxo
+- &#9745; Condicional
+- &#9745; Loops 
+- &#9745; Controle de fluxo
 
 3. Funções
-- [x] Definição de funções
-- [x] Escopo de variáveis
+- &#9745; Definição de funções
+- &#9745; Escopo de variáveis
 
 4. Estruturas de Dados Avançadas
-- [x] Compreensões de listas, dicionários e conjuntos
-- [x] Manipulação de strings
+- &#9745; Compreensões de listas, dicionários e conjuntos
+- &#9745; Manipulação de strings
 
 5. POO
-- [x] Classes e objetos
-- [x] Herança e polimorfismo
-- [x] Encapsulamento
+- &#9745; Classes e objetos
+- &#9745; Herança e polimorfismo
+- &#9745; Encapsulamento
 
 ### HTML/CSS
-- [x] Estrutura de um documento HTML
-- [x] Principais Tags e Tags Semânticas
-- [x] CSS e Propriedades Mais Utilizadas
-- [x] Flexbox
-- [ ] Desenvolvimento Responsivo com Media Query
-- [ ] Pré-processadores CSS
+- &#9745; Estrutura de um documento HTML
+- &#9745; Principais Tags e Tags Semânticas
+- &#9745; CSS e Propriedades Mais Utilizadas
+- &#9745; Flexbox
+- &#9744; Desenvolvimento Responsivo com Media Query
+- &#9744; Pré-processadores CSS
 
 ### JavaScript/TypeScript
 1. Fundamentos:
-- [x] Sintaxe básica
-- [x] Tipos de dados
-- [x] Variáveis
+- &#9745; Sintaxe básica
+- &#9745; Tipos de dados
+- &#9745; Variáveis
 
 2. Estrutura:
-- [x] Condicional
-- [x] Loops 
-- [x] Controle de fluxo
-- [x] Requisições HTTP
-- [x] Promises
+- &#9745; Condicional
+- &#9745; Loops 
+- &#9745; Controle de fluxo
+- &#9745; Requisições HTTP
+- &#9745; Promises
 
 3. Funções e Escopo
-- [x] Definição de funções
-- [x] Escopo de variáveis
-- [ ] Funções anônimas
+- &#9745; Definição de funções
+- &#9745; Escopo de variáveis
+- &#9744; Funções anônimas
 
 4. Manipulação de Arrays e Iteradores
-- [x] Métodos de array
-- [x] Iteração
+- &#9745; Métodos de array
+- &#9745; Iteração
 
 5. DOM
-- [x] Manipulação do DOM
-- [x] Seleção de elementos
-- [x] Manipulação de eventos
+- &#9745; Manipulação do DOM
+- &#9745; Seleção de elementos
+- &#9745; Manipulação de eventos
 
 6. POO
-- [ ] Objetos em JS
-- [ ] Construtores de objetos
-- [ ] Tipagem de dados
+- &#9744; Objetos em JS
+- &#9744; Construtores de objetos
+- &#9744; Tipagem de dados
 
 # Padrões de Projeto
-- [ ] DRY
-- [ ] Component-based Architecture
-- [ ] SOLID
-- [ ] Observer
+- &#9744; DRY
+- &#9744; Component-based Architecture
+- &#9744; SOLID
+- &#9744; Observer
 
 # Empacotadores
-- [ ] Webpack
-- [ ] Parcel
-- [ ] Rollup
+- &#9744; Webpack
+- &#9744; Parcel
+- &#9744; Rollup
 
 # Frameworks
 ### Flask
-- [x] sintaxe
-- [x] estrutura de pastas e arquivos
+- &#9745; sintaxe
+- &#9745; estrutura de pastas e arquivos
 
 ### Django
-- [x] sintaxe
-- [x] estrutura de pastas e arquivos
+- &#9745; sintaxe
+- &#9745; estrutura de pastas e arquivos
 
 ### Angular
-- [ ] sintaxe
-- [ ] estrutura de pastas e arquivos
+- &#9744; sintaxe
+- &#9744; estrutura de pastas e arquivos
 
 ### React
-- [ ] sintaxe
-- [ ] estrutura de pastas e arquivos
+- &#9744; sintaxe
+- &#9744; estrutura de pastas e arquivos
 
 # ORMs
 ### Flask-SQLAlchemy
-- [x] sintaxe
+- &#9745; sintaxe
 
 ### Django ORM
-- [ ] sintaxe
+- &#9744; sintaxe
