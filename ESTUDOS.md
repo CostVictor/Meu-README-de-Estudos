@@ -1,4 +1,4 @@
-# <1> Versionamento de Código
+# 1 > Versionamento de Código
 ### Git/Github
 - &#9745; Fluxo de trabalho do Git
 - &#9745; Fluxo de trabalho local/remoto
@@ -7,7 +7,7 @@
 - &#9745; Tipos de commit
 - &#9744; Principais funcionalidades
 
-# <2> Linguagens
+# 2 > Linguagens
 ### Python
 1. Fundamentos:
 - &#9745; Sintaxe básica
@@ -72,19 +72,19 @@
 - &#9744; Desenvolvimento Responsivo com Media Query
 - &#9744; Pré-processadores CSS
 
-# <3> Padrões de Projeto
+# 3 > Padrões de Projeto
 - &#9744; DRY
 - &#9744; Component-based Architecture
 - &#9744; SOLID
 - &#9744; Observer
 
-# <4> Empacotadores
+# 4 > Empacotadores
 - &#9744; Webpack
 - &#9744; Parcel
 - &#9744; Rollup
 
-# <5> Frameworks
-## Back-end
+# 5 > Frameworks
+### <Back-end>
 ### Flask
 - &#9745; sintaxe
 - &#9745; estrutura de pastas e arquivos
@@ -93,7 +93,7 @@
 - &#9745; sintaxe
 - &#9745; estrutura de pastas e arquivos
 
-## Front-end
+### <Front-end>
 ### Angular
 - &#9744; sintaxe
 - &#9744; estrutura de pastas e arquivos
@@ -102,7 +102,7 @@
 - &#9744; sintaxe
 - &#9744; estrutura de pastas e arquivos
 
-# <6> ORMs
+# 6 > ORMs
 ### Flask-SQLAlchemy
 - &#9745; sintaxe
 
